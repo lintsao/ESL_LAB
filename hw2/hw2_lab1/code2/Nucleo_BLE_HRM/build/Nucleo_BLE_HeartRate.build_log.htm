@@ -1,0 +1,250 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: £gVision V5.29.0.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: LinHsi Tsao, NTU, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.29.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.29.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.7.0
+Dialog DLL:      TCM.DLL V1.36.5.0
+ 
+<h2>Project:</h2>
+C:\Users\elain\Desktop\junior_2\Embedded_Systems\hw2\Module_11\Module 11\code2\Nucleo_BLE_HRM\Nucleo_BLE_HeartRate.uvprojx
+Project File Date:  04/08/2020
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+*** Warning: You are compiling one or more files of source type C++ and have selected 'use MicroLIB'. MicroLIB does not support C++!
+  
+Rebuild target 'mbed NUCLEO_F401RE'
+compiling clock.c...
+compiling gp_timer.c...
+compiling list.c...
+compiling hci.c...
+Nucleo_BLE_BlueNRG/hci/inc/link_layer.h(107): warning:  #1-D: last line of file ends without a newline
+  #endif /* _LINK_LAYER_H */
+Nucleo_BLE_BlueNRG/hci/inc/hci.h(132): warning:  #1295-D: Deprecated declaration hci_le_clear_white_list - give arg types
+  int hci_le_clear_white_list();
+Nucleo_BLE_BlueNRG/hci/inc/hci.h(142): warning:  #1295-D: Deprecated declaration hci_le_ltk_request_neg_reply - give arg types
+  int hci_le_ltk_request_neg_reply();
+Nucleo_BLE_BlueNRG/hci/src/hci.c(185): warning:  #223-D: function "Disable_SPI_IRQ" declared implicitly
+      Disable_SPI_IRQ();
+Nucleo_BLE_BlueNRG/hci/src/hci.c(191): warning:  #223-D: function "Enable_SPI_IRQ" declared implicitly
+          Enable_SPI_IRQ();
+Nucleo_BLE_BlueNRG/hci/src/hci.c(197): warning:  #223-D: function "Enable_SPI_IRQ" declared implicitly
+      Enable_SPI_IRQ();    
+Nucleo_BLE_BlueNRG/hci/src/hci.c(210): warning:  #223-D: function "Hal_Write_Serial" declared implicitly
+  	Hal_Write_Serial(data1, data2, n_bytes1, n_bytes2);
+Nucleo_BLE_BlueNRG/hci/src/hci.c(233): warning:  #223-D: function "Disable_SPI_IRQ" declared implicitly
+  	Disable_SPI_IRQ(); /* Must be re-enabled after packet processing. */
+Nucleo_BLE_BlueNRG/hci/src/hci.c(282): warning:  #223-D: function "Enable_SPI_IRQ" declared implicitly
+              Enable_SPI_IRQ();
+Nucleo_BLE_BlueNRG/hci/src/hci.c(342): warning:  #223-D: function "Enable_SPI_IRQ" declared implicitly
+  		Enable_SPI_IRQ();
+Nucleo_BLE_BlueNRG/hci/src/hci.c(348): warning:  #223-D: function "Enable_SPI_IRQ" declared implicitly
+  	Enable_SPI_IRQ();
+Nucleo_BLE_BlueNRG/hci/src/hci.c: 11 warnings, 0 errors
+compiling bluenrg_hci.c...
+Nucleo_BLE_BlueNRG/hci/inc/link_layer.h(107): warning:  #1-D: last line of file ends without a newline
+  #endif /* _LINK_LAYER_H */
+Nucleo_BLE_BlueNRG/hci/inc/hci.h(132): warning:  #1295-D: Deprecated declaration hci_le_clear_white_list - give arg types
+  int hci_le_clear_white_list();
+Nucleo_BLE_BlueNRG/hci/inc/hci.h(142): warning:  #1295-D: Deprecated declaration hci_le_ltk_request_neg_reply - give arg types
+  int hci_le_ltk_request_neg_reply();
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(38): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(66): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(91): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(148): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(179): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(223): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(297): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(383): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(430): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(456): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(504): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(531): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(557): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(583): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(609): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(643): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(688): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(716): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(742): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(777): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(811): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(843): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(870): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(910): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(942): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(969): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1030): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1068): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1087): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1112): warning:  #68-D: integer conversion resulted in a change of sign
+      return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1140): warning:  #68-D: integer conversion resulted in a change of sign
+          return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1163): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1184): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1201): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1220): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1241): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1260): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1277): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1299): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1314): warning:  #68-D: integer conversion resulted in a change of sign
+          return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1334): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1348): warning:  #68-D: integer conversion resulted in a change of sign
+          return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1362): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1391): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c(1412): warning:  #68-D: integer conversion resulted in a change of sign
+  		return -1;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_hci.c: 48 warnings, 0 errors
+compiling osal.c...
+compiling bluenrg_shield_bsp.c...
+Nucleo_BLE_BlueNRG/hci/inc/link_layer.h(107): warning:  #1-D: last line of file ends without a newline
+  #endif /* _LINK_LAYER_H */
+Nucleo_BLE_BlueNRG/hci/inc/hci.h(132): warning:  #1295-D: Deprecated declaration hci_le_clear_white_list - give arg types
+  int hci_le_clear_white_list();
+Nucleo_BLE_BlueNRG/hci/inc/hci.h(142): warning:  #1295-D: Deprecated declaration hci_le_ltk_request_neg_reply - give arg types
+  int hci_le_ltk_request_neg_reply();
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_shield_bsp.c(131): warning:  #550-D: variable "ret"  was set but never used
+    int ret;
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_shield_bsp.c(348): warning:  #1-D: last line of file ends without a newline
+  /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+Nucleo_BLE_BlueNRG/hci/src/bluenrg_shield_bsp.c: 5 warnings, 0 errors
+compiling main.cpp...
+compiling UUID.cpp...
+compiling GapAdvertisingData.cpp...
+compiling BlueNRGGap.cpp...
+Nucleo_BLE_BlueNRG/hci/inc/link_layer.h(107): warning:  #1-D: last line of file ends without a newline
+  #endif /* _LINK_LAYER_H */
+Nucleo_BLE_BlueNRG/utils/inc/Payload.h(185): warning:  #1-D: last line of file ends without a newline
+  #endif // __PAYLOAD_H__
+Nucleo_BLE_BlueNRG/BlueNRGGap.cpp(266): warning:  #550-D: variable "ret"  was set but never used
+      tBleStatus ret;
+Nucleo_BLE_BlueNRG/BlueNRGGap.cpp(267): warning:  #177-D: variable "HRM_SERVICE_UUID_128"  was declared but never referenced
+      const LongUUIDBytes_t HRM_SERVICE_UUID_128 = {0x18, 0x0D};
+Nucleo_BLE_BlueNRG/BlueNRGGap.cpp(420): warning:  #177-D: variable "ret"  was declared but never referenced
+      tBleStatus ret;
+Nucleo_BLE_BlueNRG/BlueNRGGap.cpp(605): warning:  #177-D: variable "ret"  was declared but never referenced
+      int ret;
+Nucleo_BLE_BlueNRG/BlueNRGGap.cpp: 6 warnings, 0 errors
+compiling Payload.cpp...
+Nucleo_BLE_BlueNRG/utils/inc/Payload.h(185): warning:  #1-D: last line of file ends without a newline
+  #endif // __PAYLOAD_H__
+Nucleo_BLE_BlueNRG/utils/src/Payload.cpp(101): warning:  #1-D: last line of file ends without a newline
+  }    
+Nucleo_BLE_BlueNRG/utils/src/Payload.cpp: 2 warnings, 0 errors
+compiling GapAdvertisingParams.cpp...
+compiling GattService.cpp...
+compiling BlueNRGDevice.cpp...
+Nucleo_BLE_BlueNRG/hci/inc/link_layer.h(107): warning:  #1-D: last line of file ends without a newline
+  #endif /* _LINK_LAYER_H */
+Nucleo_BLE_BlueNRG/BlueNRGDevice.cpp(232): warning:  #1-D: last line of file ends without a newline
+  }
+Nucleo_BLE_BlueNRG/BlueNRGDevice.cpp: 2 warnings, 0 errors
+compiling btle.cpp...
+Nucleo_BLE_BlueNRG/hci/inc/link_layer.h(107): warning:  #1-D: last line of file ends without a newline
+  #endif /* _LINK_LAYER_H */
+Nucleo_BLE_BlueNRG/hci/inc/role_type.h(9): warning:  #1-D: last line of file ends without a newline
+  #endif /* _ROLE_TYPE_H_ */
+Nucleo_BLE_BlueNRG/btle/src/btle.cpp(75): warning:  #550-D: variable "ret"  was set but never used
+      int ret;
+Nucleo_BLE_BlueNRG/btle/src/btle.cpp(137): warning:  #550-D: variable "ret"  was set but never used
+      tBleStatus ret;
+Nucleo_BLE_BlueNRG/btle/src/btle.cpp(302): warning:  #1-D: last line of file ends without a newline
+  #endif
+Nucleo_BLE_BlueNRG/btle/src/btle.cpp(159): warning:  #177-D: function "btle_handler"  was declared but never referenced
+  static void btle_handler()
+Nucleo_BLE_BlueNRG/btle/src/btle.cpp: 6 warnings, 0 errors
+compiling BlueNRGGattServer.cpp...
+Nucleo_BLE_BlueNRG/hci/inc/link_layer.h(107): warning:  #1-D: last line of file ends without a newline
+  #endif /* _LINK_LAYER_H */
+Nucleo_BLE_BlueNRG/BlueNRGGattServer.cpp(128): warning:  #177-D: variable "charHandle"  was declared but never referenced
+          uint16_t charHandle = characteristicCount;   
+Nucleo_BLE_BlueNRG/BlueNRGGattServer.cpp(224): warning:  #177-D: variable "buff"  was declared but never referenced
+      tHalUint8 buff[2];
+Nucleo_BLE_BlueNRG/BlueNRGGattServer.cpp(274): warning:  #940-D: missing return statement at end of non-void function "BlueNRGGattServer::Read_Request_CB" 
+  }
+Nucleo_BLE_BlueNRG/BlueNRGGattServer.cpp: 4 warnings, 0 errors
+compiling Utils.cpp...
+compiling BLEDevice.cpp...
+compiling DFUService.cpp...
+compiling UARTService.cpp...
+linking...
+.\build\Nucleo_BLE_HeartRate.axf: error: L6050U: The code size of this image (47980 bytes) exceeds the maximum allowed for this version of the linker.
+Finished: 0 information, 0 warning, 0 error and 1 fatal error messages.
+".\build\Nucleo_BLE_HeartRate.axf" - 1 Error(s), 84 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F4xx_DFP.2.14.0.pack
+                Keil.STM32F4xx_DFP.2.14.0
+                STMicroelectronics STM32F4 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_mbed_NUCLEO_F401RE
+  C:\Users\elain\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+
+<h2>Collection of Component Files used:</h2>
+Target not created.
+Build Time Elapsed:  00:00:04
+</pre>
+</body>
+</html>

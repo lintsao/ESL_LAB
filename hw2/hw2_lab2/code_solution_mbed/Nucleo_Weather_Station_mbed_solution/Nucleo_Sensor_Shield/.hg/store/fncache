@@ -1,0 +1,15 @@
+data/Components/HTS221/hts221.cpp.i
+data/x_cube_mems_i2c.h.i
+data/Components/HTS221/hts221_platform.h.i
+data/Components/HTS221/hts221.h.i
+data/Components/LSM6DS0/lsm6ds0_platform.h.i
+data/Components/LSM6DS0/lsm6ds0.cpp.i
+data/Components/LIS3MDL/lis3mdl_platform.h.i
+data/Components/LPS25H/lps25.cpp.i
+data/Components/LPS25H/lps25h.h.i
+data/Components/LIS3MDL/lis3mdl.cpp.i
+data/x_cube_mems.h.i
+data/Components/LPS25H/lps25h_platform.h.i
+data/Components/LSM6DS0/lsm6ds0.h.i
+data/x_cube_mems.cpp.i
+data/Components/LIS3MDL/lis3mdl.h.i

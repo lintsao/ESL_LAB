@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather Station</string>
+    <string name="Hvalue">--</string>
+    <string name="Tvalue">--</string>
+    <string name="Pvalue">--</string>
+    <string name="Wvalue">--</string>
+    <string name="connect">Connect</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_device">Select device:</string>
+    <string name="unknown_device_name">Unknown device</string>
+    <string name="connecting">Connecting…</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="clock">clock</string>
+    <string name="temperature">Temperature</string>
+    <string name="temp">Termometer logo</string>
+    <string name="pressure">Pressure</string>
+    <string name="press">Pressure logo</string>
+    <string name="humidity">Humidity</string>
+    <string name="humi">Humidity logo</string>
+    <string name="wind">Cardinal Direction</string>
+    <string name="windlogo">Cardinal Direction logo</string>
+</resources>

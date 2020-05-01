@@ -1,0 +1,15 @@
+.\build\hci.o: Nucleo_BLE_BlueNRG/hci/src/hci.c
+.\build\hci.o: Nucleo_BLE_BlueNRG/hci/inc/hal_types.h
+.\build\hci.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\hci.o: Nucleo_BLE_BlueNRG/platform/inc/osal.h
+.\build\hci.o: Nucleo_BLE_BlueNRG/hci/inc/ble_status.h
+.\build\hci.o: Nucleo_BLE_BlueNRG/hci/inc/hal.h
+.\build\hci.o: Nucleo_BLE_BlueNRG/hci/inc/hci_internal.h
+.\build\hci.o: Nucleo_BLE_BlueNRG/platform/inc/compiler.h
+.\build\hci.o: Nucleo_BLE_BlueNRG/platform/inc/clock.h
+.\build\hci.o: Nucleo_BLE_BlueNRG/hci/inc/link_layer.h
+.\build\hci.o: Nucleo_BLE_BlueNRG/hci/inc/hci.h
+.\build\hci.o: Nucleo_BLE_BlueNRG/platform/inc/list.h
+.\build\hci.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\build\hci.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\build\hci.o: Nucleo_BLE_BlueNRG/platform/inc/gp_timer.h

@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de80da3f-7f2f-4068-a8f2-940db90d30ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WeatherSolution_app/app/src/main/res/layout/aaa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/DebugConfig/STM32F401RET6_STM32F401RETx.dbgconf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Listings/code.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Listings/startup_stm32f401xe.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/code.axf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/code.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/code.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/code.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/code.sct" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/code_STM32F401RET6.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/main.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/startup_stm32f401xe.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/startup_stm32f401xe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/system_stm32f4xx.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/system_stm32f4xx.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/Objects/system_stm32f4xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/RTE/Device/STM32F401RETx/startup_stm32f401xe.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/RTE/Device/STM32F401RETx/system_stm32f4xx.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/RTE/_STM32F401RET6/RTE_Components.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/code.uvguix.elain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/code.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/code.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code/code/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/DebugConfig/STM32F401RET6_STM32F401RETx.dbgconf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/EventRecorderStub.scvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Listings/code.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Listings/startup_stm32f401xe.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/ExtDll.iex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/code.axf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/code.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/code.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/code.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/code.sct" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/code_STM32F401RET6.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/main.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/startup_stm32f401xe.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/startup_stm32f401xe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/system_stm32f4xx.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/system_stm32f4xx.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/Objects/system_stm32f4xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/RTE/Device/STM32F401RETx/startup_stm32f401xe.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/RTE/Device/STM32F401RETx/system_stm32f4xx.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/RTE/_STM32F401RET6/RTE_Components.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/code.uvguix.elain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/code.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/code.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_3/Module 3/code_solution/code_solution/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code/code/RTE/Device/STM32F401RETx/startup_stm32f401xe.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code/code/RTE/Device/STM32F401RETx/system_stm32f4xx.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code/code/RTE/RTE_Components.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code/code/code.uvguix.joatei01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code/code/code.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code/code/code.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code/code/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Listings/code.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Listings/startup_stm32f401xe.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/code.axf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/code.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/code.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/code.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/code.sct" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/code_STM32F401RET6.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/main.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/startup_stm32f401xe.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/startup_stm32f401xe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/system_stm32f4xx.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/system_stm32f4xx.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/Objects/system_stm32f4xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/RTE/Device/STM32F401RETx/startup_stm32f401xe.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/RTE/Device/STM32F401RETx/system_stm32f4xx.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/RTE/_STM32F401RET6/RTE_Components.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/code.uvguix.elain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/code.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/code.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_4/Module 4/code_solution/code_solution/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code/code/code.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code/code/code.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code/code/headers/buttons.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code/code/headers/interrupts.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code/code/headers/leds.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code/code/src/buttons.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code/code/src/interrupts.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code/code/src/leds.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code/code/src/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code/code_solution.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Listings/code.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Listings/startup_stm32f401xe.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/ExtDll.iex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/buttons.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/buttons.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/buttons.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/code.axf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/code.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/code.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/code.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/code.sct" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/code_STM32F401RET6.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/code_sct.Bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/interrupts.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/interrupts.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/interrupts.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/leds.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/leds.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/leds.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/main.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/startup_stm32f401xe.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/startup_stm32f401xe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/system_stm32f4xx.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/system_stm32f4xx.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/Objects/system_stm32f4xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/RTE/Device/STM32F401RETx/startup_stm32f401xe.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/RTE/Device/STM32F401RETx/system_stm32f4xx.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/RTE/_STM32F401RET6/RTE_Components.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/code.uvguix.elain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/code.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/code.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/headers/buttons.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/headers/interrupts.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/headers/leds.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/src/buttons.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/src/interrupts.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/src/leds.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/code_solution/code_solution/src/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_5/Module 5/mbed_blinky_NUCLEO_F401RE.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/DebugConfig/mbed_NUCLEO_F401RE_STM32F401RETx.dbgconf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/EventRecorderStub.scvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/build/code.axf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/build/code.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/build/code.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/build/code.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/build/code.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/build/code_NUCLEO_F401RE.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/build/code_mbed NUCLEO_F401RE.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/build/main.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/build/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/build/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/code.uvguix.elain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/code.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/code.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed.bld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/.hg/keep.me" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/AnalogIn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/AnalogOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/BusIn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/BusInOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/BusOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/CAN.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/CallChain.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/DigitalIn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/DigitalInOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/DigitalOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/DirHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/Ethernet.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/FileBase.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/FileHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/FileLike.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/FilePath.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/FileSystemLike.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/FunctionPointer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/I2C.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/I2CSlave.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/InterruptIn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/InterruptManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/LocalFileSystem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/PortIn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/PortInOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/PortOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/PwmOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/RawSerial.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/SPI.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/SPISlave.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/Serial.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/SerialBase.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/Stream.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/PeripheralPins.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F401RE/PeripheralNames.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F401RE/PinNames.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F401RE/PortNames.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F401RE/device.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F401RE/objects.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/gpio_object.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/board.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/cmsis_nvic.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/hal_tick.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/mbed.ar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/mbed_overrides.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/retarget.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/startup_stm32f401xe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f401xe.sct" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_adc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_adc_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_cortex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_crc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_cryp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_cryp_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_dac.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_dac_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_dcmi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_dma.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_dma2d.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_dma_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_eth.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_flash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_flash_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_flash_ramfunc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_hash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_hash_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_hcd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_i2c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_i2c_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_i2s.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_i2s_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_irda.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_iwdg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_ltdc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_nand.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_nor.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_pccard.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_pcd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_pcd_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_pwr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_pwr_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_rcc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_rcc_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_rng.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_rtc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_rtc_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_sai.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_sd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_sdram.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_smartcard.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_spi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_sram.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_tim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_tim_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_uart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_usart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_wwdg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_ll_fmc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_ll_fsmc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_ll_sdmmc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_ll_usb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/sys.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/system_stm32f4xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/cmsis.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/cmsis_nvic.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/core_ca9.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/core_caFunc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/core_caInstr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/core_ca_mmu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/core_cm0.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/core_cm0plus.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/core_cm3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/core_cm4.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/core_cm4_simd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/core_cmFunc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/core_cmInstr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/hal_tick.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f401xe.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_adc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_adc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_can.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_conf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_cortex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_crc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_cryp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_cryp_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_dac.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_dac_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_dcmi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_def.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_dma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_dma2d.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_dma_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_eth.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_flash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_flash_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_flash_ramfunc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_gpio_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_hash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_hash_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_hcd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_i2c.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_i2c_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_i2s.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_i2s_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_irda.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_iwdg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_ltdc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_nand.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_nor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_pccard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_pcd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_pcd_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_pwr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_pwr_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_rcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_rcc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_rng.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_rtc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_rtc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_sai.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_sd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_sdram.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_smartcard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_spi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_sram.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_tim.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_tim_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_uart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_usart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_wwdg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_ll_fmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_ll_fsmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_ll_sdmmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_ll_usb.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TARGET_NUCLEO_F401RE/system_stm32f4xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/Ticker.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/Timeout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/Timer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/TimerEvent.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/analogin_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/analogout_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/can_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/can_helper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/ethernet_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/gpio_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/gpio_irq_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/i2c_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/mbed.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/mbed_assert.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/mbed_debug.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/mbed_error.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/mbed_interface.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/pinmap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/platform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/port_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/pwmout_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/rtc_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/rtc_time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/semihost_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/serial_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/sleep_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/spi_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/toolchain.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/us_ticker_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution1/code_solution1/mbed/wait_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/DebugConfig/mbed_NUCLEO_F401RE_STM32F401RETx.dbgconf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/build/code.axf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/build/code.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/build/code.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/build/code.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/build/code.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/build/code_mbed NUCLEO_F401RE.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/build/main.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/build/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/build/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/code.uvguix.elain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/code.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/code.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed.bld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/.hg/keep.me" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/AnalogIn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/AnalogOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/BusIn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/BusInOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/BusOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/CAN.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/CallChain.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/DigitalIn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/DigitalInOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/DigitalOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/DirHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/Ethernet.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/FileBase.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/FileHandle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/FileLike.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/FilePath.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/FileSystemLike.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/FunctionPointer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/I2C.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/I2CSlave.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/InterruptIn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/InterruptManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/LocalFileSystem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/PortIn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/PortInOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/PortOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/PwmOut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/RawSerial.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/SPI.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/SPISlave.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/Serial.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/SerialBase.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/Stream.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/PeripheralPins.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F401RE/PeripheralNames.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F401RE/PinNames.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F401RE/PortNames.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F401RE/device.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F401RE/objects.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TARGET_STM/TARGET_STM32F4/gpio_object.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/board.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/cmsis_nvic.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/hal_tick.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/mbed.ar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/mbed_overrides.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/retarget.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/startup_stm32f401xe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f401xe.sct" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_adc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_adc_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_cortex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_crc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_cryp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_cryp_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_dac.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_dac_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_dcmi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_dma.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_dma2d.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_dma_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_eth.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_flash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_flash_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_flash_ramfunc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_hash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_hash_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_hcd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_i2c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_i2c_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_i2s.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_i2s_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_irda.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_iwdg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_ltdc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_nand.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_nor.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_pccard.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_pcd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_pcd_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_pwr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_pwr_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_rcc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_rcc_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_rng.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_rtc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_rtc_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_sai.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_sd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_sdram.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_smartcard.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_spi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_sram.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_tim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_tim_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_uart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_usart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_hal_wwdg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_ll_fmc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_ll_fsmc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_ll_sdmmc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/stm32f4xx_ll_usb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/sys.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/TOOLCHAIN_ARM_MICRO/system_stm32f4xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/cmsis.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/cmsis_nvic.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/core_ca9.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/core_caFunc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/core_caInstr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/core_ca_mmu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/core_cm0.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/core_cm0plus.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/core_cm3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/core_cm4.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/core_cm4_simd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/core_cmFunc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/core_cmInstr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/hal_tick.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f401xe.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_adc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_adc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_can.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_conf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_cortex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_crc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_cryp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_cryp_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_dac.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_dac_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_dcmi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_def.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_dma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_dma2d.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_dma_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_eth.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_flash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_flash_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_flash_ramfunc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_gpio_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_hash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_hash_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_hcd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_i2c.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_i2c_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_i2s.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_i2s_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_irda.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_iwdg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_ltdc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_nand.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_nor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_pccard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_pcd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_pcd_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_pwr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_pwr_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_rcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_rcc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_rng.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_rtc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_rtc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_sai.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_sd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_sdram.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_smartcard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_spi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_sram.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_tim.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_tim_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_uart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_usart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_hal_wwdg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_ll_fmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_ll_fsmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_ll_sdmmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/stm32f4xx_ll_usb.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TARGET_NUCLEO_F401RE/system_stm32f4xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/Ticker.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/Timeout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/Timer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/TimerEvent.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/analogin_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/analogout_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/can_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/can_helper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/ethernet_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/gpio_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/gpio_irq_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/i2c_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/mbed.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/mbed_assert.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/mbed_debug.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/mbed_error.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/mbed_interface.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/pinmap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/platform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/port_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/pwmout_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/rtc_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/rtc_time.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/semihost_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/serial_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/sleep_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/spi_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/toolchain.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/us_ticker_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/code_solution2/code_solution2/mbed/wait_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../hw1/Module_6/Module 6/mbed_blinky_NUCLEO_F401RE.bin" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/res/layout/activity_weather.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="105" column="45" selection-start-line="105" selection-start-column="45" selection-end-line="105" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/res/layout/aaa">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeatherSolution_app/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/java/com/arm/university/weather/DevicesAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/java/com/arm/university/weather/AssignedNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/java/com/arm/university/weather/WeatherActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="151" column="51" selection-start-line="151" selection-start-column="51" selection-end-line="151" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WeatherSolution_app/app/src/main/res/layout/activity_weather.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/code_solution_android.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="729" />
+    <option name="y" value="72" />
+    <option name="width" value="1128" />
+    <option name="height" value="957" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="1.12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="2.2.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="2.2.1" type="462c0819:PsiDirectoryNode" />
+              <item name="taskArtifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="rs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="rs" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="rs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="arm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="arm" type="462c0819:PsiDirectoryNode" />
+              <item name="university" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="arm" type="462c0819:PsiDirectoryNode" />
+              <item name="university" type="462c0819:PsiDirectoryNode" />
+              <item name="weather" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_solution_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_solution_android" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherSolution_app" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de80da3f-7f2f-4068-a8f2-940db90d30ce" name="Default Changelist" comment="" />
+      <created>1587712367428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587712367428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.28832406" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" weight="0.32983023" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" visible="true" weight="0.053285968" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.19360569" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/java/com/arm/university/weather/AssignedNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/java/com/arm/university/weather/WeatherActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="151" column="51" selection-start-line="151" selection-start-column="51" selection-end-line="151" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/res/layout/list_device.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/res/layout/activity_weather.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="105" column="45" selection-start-line="105" selection-start-column="45" selection-end-line="105" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/res/layout/aaa">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherSolution_app/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/java/com/arm/university/weather/GapAppearance.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherSolution_app/app/src/main/java/com/arm/university/weather/DevicesAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
