@@ -1,0 +1,14 @@
+Dependencies for Project 'code', Target 'STM32F401RET6': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\main.c)(0x5E745EB7)(-c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_STM32F401RET6-IC:\Users\elain\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\elain\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Users\elain\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F401xE-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (RTE\Device\STM32F401RETx\startup_stm32f401xe.s)(0x5C5B9022)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_STM32F401RET6-IC:\Users\elain\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\elain\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Users\elain\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "STM32F401xE SETA 1"--list .\listings\startup_stm32f401xe.lst --xref -o .\objects\startup_stm32f401xe.o --depend .\objects\startup_stm32f401xe.d)
+F (RTE\Device\STM32F401RETx\system_stm32f4xx.c)(0x5C5B9022)(-c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_STM32F401RET6-IC:\Users\elain\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\elain\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Users\elain\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F401xE-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (C:\Users\elain\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5B9022)
+I (C:\Users\elain\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h)(0x5C5B9022)
+I (C:\Users\elain\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D2590B6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AD218)
+I (C:\Users\elain\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D2590B6)
+I (C:\Users\elain\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D2590B6)
+I (C:\Users\elain\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D2590B6)
+I (C:\Users\elain\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F4DD4)
+I (C:\Users\elain\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5B9022)
